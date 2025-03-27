@@ -10,7 +10,7 @@ Check Module Dependencies:
     fwconsole ma checkdepends <module_name>
     
 
-/// Install and Configure Containerd \\\
+/// Install Module's \\\
 
     fwconsole ma downloadinstall  core --tag 1.2.3
     fwconsole ma downloadinstall  framework --tag 1.2.3
