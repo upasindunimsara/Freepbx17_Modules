@@ -13,6 +13,13 @@ Check Module Dependencies:
 /// Install and Configure Containerd \\\
 
     fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  framework --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 1.2.3
 
 
 
