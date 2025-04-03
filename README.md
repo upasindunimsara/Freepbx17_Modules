@@ -33,3 +33,4 @@ Uninstall Module:
 Remove Module: 
 
     fwconsole ma remove <module_name> 
+    fwconsole ma remove missedcall
