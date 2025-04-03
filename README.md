@@ -12,7 +12,7 @@ Check Module Dependencies:
 
 /// Install Module's \\\
 
-    fwconsole ma downloadinstall  core --tag 1.2.3
+    fwconsole ma downloadinstall  core --tag 17.0.9.73
     fwconsole ma downloadinstall  framework --tag 1.2.3
     fwconsole ma downloadinstall  core --tag 1.2.3
     fwconsole ma downloadinstall  core --tag 1.2.3
