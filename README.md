@@ -76,7 +76,7 @@ This repository documents the currently installed FreePBX 17 modules categorized
 | Call Waiting             | 17.0.3.4    |
 | Callback                 | 17.0.2.1    |
 | Conferences              | 17.0.3.2    |
-| Core                     | 17.0.18.26  |
+|💡Core                   | 17.0.18.26  |
 | DISA                     | 17.0.6      |
 | Dictation                | 17.0.1.2    |
 | Directory                | 17.0.1.2    |
